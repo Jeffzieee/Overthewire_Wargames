@@ -1,0 +1,9 @@
+#Commands
+ssh bandit4@bandit.labs.overthewire.org -p 2220
+ls
+cd inhere
+file ./*
+cat ./-file07
+
+#bandit5 password:
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR

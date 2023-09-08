@@ -1,0 +1,8 @@
+#Commands
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+pwd
+ls
+cat readme
+
+#bandit1 password
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL

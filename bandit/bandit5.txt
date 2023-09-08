@@ -1,0 +1,8 @@
+#Commands
+ssh bandit5@bandit.labs.overthewire.org -p 2220
+ls
+cd inhere
+find -readable ! -executable -size 1033c
+
+#bandit6 password:
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
