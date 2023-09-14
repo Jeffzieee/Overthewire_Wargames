@@ -1,0 +1,6 @@
+#Commands 
+ls
+sort data.txt | uniq -c | grep "1 "
+
+#bandit9 password:
+EN632PlfYiZbn3PhVK3XOGSlNInNE00t

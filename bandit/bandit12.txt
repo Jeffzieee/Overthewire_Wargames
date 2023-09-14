@@ -1,0 +1,20 @@
+#Commands 
+ls
+mkdir /tmp/yourname1/
+cp data.txt /tmp/yourname1/
+xxd -reverse data.txt > reverse_hexdump
+mv reverse_hexdump reverse_hexdump.gz
+gunzip reverse_hexdump.gz
+bunzip2 reverse_hexdump
+mv reverse_hexdump.out reverse_hexdump.gz
+gunzip reverse_hexdump.gz
+tar xf reverse_hexdump
+tar xf data5.bin
+bunzip2 data6.bin
+tar xf data6.bin.out
+mv data8.bin data8.gz
+gunzip data8.gz
+cat data8
+
+#bandit13 password:
+wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw

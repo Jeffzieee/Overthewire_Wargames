@@ -1,0 +1,6 @@
+#Commands
+ls
+base64 -d data.txt
+
+#bandit10 password:
+6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM

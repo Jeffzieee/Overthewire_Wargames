@@ -1,0 +1,7 @@
+#Commands
+ls
+cat data.txt
+echo <data.txt content> | rot 13 #If ROT13 Is installed in ur linux distro, else search rot13 online
+
+#bandit12 password:
+JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
